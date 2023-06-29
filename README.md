@@ -3,3 +3,5 @@
 # Reading notes with Nextra
 
 These are some demo notes taken while reading computer science related books. Most of the notes are in french.
+
+see: https://github.com/mkrtchian/reading-notes
