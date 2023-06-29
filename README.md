@@ -1,5 +1,5 @@
-# Reading notes
+[![Deploy](https://github.com/schminkel/reading-notes/actions/workflows/deploy.yml/badge.svg)](https://github.com/schminkel/reading-notes/actions/workflows/deploy.yml)
 
-These are my detailed notes taken while reading computer science related books. Most of the notes are in french.
+# Reading notes with Nextra
 
-**[Read the notes online](https://mkrtchian.github.io/reading-notes/)**
+These are some demo notes taken while reading computer science related books. Most of the notes are in french.
